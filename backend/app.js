@@ -40,7 +40,7 @@ const {
     deleteAssignments,
 }=require('./controllers/userControllers')
 
-const {handleUser} = require('./controllers/authContoller')
+const {handleUser} = require('./controllers/authControllers')
 
 app.use(cors(corsOpt))
 app.use(express.json())

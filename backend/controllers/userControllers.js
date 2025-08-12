@@ -856,7 +856,6 @@ module.exports={
     putFeedback,
     feedBackOfAStudent,
     getTableData,
-    getUser,
     removeCurrentUser,
     getFloorDetails,
     showClass,
